@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header section */
+    header {
+        background-color: rgb(46, 42, 42);
+        color: #fff;
+        padding: 1em 0;
+        text-align: center;
+    }

@@ -49,17 +49,17 @@ function playGame() {
     console.log(`Computer Score: ${computerScore}`);
 }
 
-console.log("Round 1:");
-playGame();
+// console.log("Round 1:");
+// playGame();
 
-console.log("Round 2:");
-playGame();
+// console.log("Round 2:");
+// playGame();
 
-console.log("Round 3:");
-playGame();
+// console.log("Round 3:");
+// playGame();
 
-console.log("Round 4:");
-playGame();
+// console.log("Round 4:");
+// playGame();
 
-console.log("Round 5:");
-playGame();
+// console.log("Round 5:");
+// playGame();

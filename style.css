@@ -68,9 +68,10 @@ body {
         position: absolute;
         bottom: 0;
         left: 0;
+        right: 0;
         display: flex;
         justify-content: center;
-        align-items: center;
-        gap: 10px;
-        
+        padding: 25px;
+        color: #dcdcdc;
+        background-color: #343434;
     }
